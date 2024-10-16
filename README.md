@@ -34,7 +34,7 @@ This project allows you to send WhatsApp messages using a NodeMCU ESP8266 board 
 ### Code Setup
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/ayu2606/esp-whatsap.git
+   git clone https://github.com/ayu2606/whatsapp-nodemcu.git
    ```
 1. **Open the code in Arduino IDE**:
    - Launch the Arduino IDE.
